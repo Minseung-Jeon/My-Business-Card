@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Business Card</string>
+    <string name="english_name">Minseung Jeon</string>
+    <string name="introduction">Computer Science Student</string>
+    <string name="phone_num">+82 XXX XXXX XXXX</string>
+    <string name="website">https://minseung.netlify.app/</string>
+    <string name="email">tonyjun00@gmail.com</string>
+
+
+
+</resources>
